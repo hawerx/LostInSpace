@@ -2,12 +2,12 @@
 Proyecto FV
 Integrantes :
 
-Francisco Noguera Vidal
+-Francisco Noguera Vidal
 
-Samuel Quesada Cambil
+-Samuel Quesada Cambil
 
-Hawer Xavier Bonilla Salazar
+-Hawer Xavier Bonilla Salazar
 
-Tomás Rafael Martínez Sanchis
+-Tomás Rafael Martínez Sanchis
 
-Roberto García-Verdguo Sánchez
+-Roberto García-Verdguo Sánchez
